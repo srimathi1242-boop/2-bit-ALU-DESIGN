@@ -1,3 +1,4 @@
+
 # Code
 module alu(input[1:0]a,b,input[2:0]sel,
 output reg[1:0] result,
@@ -38,3 +39,7 @@ a = 2'b11; b = 2'b11; sel = 3'b100;
 $stop; 
 end
 endmodule
+
+
+<img width="1600" height="574" alt="WhatsApp Image 2026-05-12 at 12 31 16 PM (1)" src="https://github.com/user-attachments/assets/05a45b1f-7714-4d17-b97a-5bd4d51bff6b" />
+
